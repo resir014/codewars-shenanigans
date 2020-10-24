@@ -5,7 +5,7 @@
   "author": "Resi Respati",
   "license": "MIT",
   "scripts": {
-    "compile-and-run": "ts-node"
+    "ts-node": "ts-node"
   },
   "devDependencies": {
     "prettier": "^2.1.2",
