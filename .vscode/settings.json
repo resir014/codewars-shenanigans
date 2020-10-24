@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.rulers": [100],
+  "editor.formatOnSave": true,
+  "files.encoding": "utf8",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "search.exclude": {
+    "node_modules/**": true
+  }
+}

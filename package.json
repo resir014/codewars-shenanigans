@@ -1,0 +1,15 @@
+{
+  "name": "codewars-shenanigans",
+  "version": "1.0.0",
+  "main": "N/A",
+  "author": "Resi Respati",
+  "license": "MIT",
+  "scripts": {
+    "compile-and-run": "ts-node"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
